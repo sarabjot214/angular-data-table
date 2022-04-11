@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.filterBar {
+    display: flex;
+}
+
+.mat-form-field {
+    width: 20%;
+    margin-right: 10px;
+}
+
+input {
+    position: absolute;
+    bottom: 3px;
+}
+
+button {
+    height: 40px;
+}
